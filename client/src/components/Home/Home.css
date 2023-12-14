@@ -1,0 +1,26 @@
+.bg{
+    background-image: url(../../../public/Images/dark.jpg);
+    height: 90vh;
+    max-width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 40% 40%;
+    opacity: 0.5;
+    overflow-x: hidden;
+    z-index: -1;
+}
+
+.wrapper{
+    position: relative;
+    text-align: center;
+}
+
+.searchBar{
+    position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        overflow: hidden;
+    z-index: 1;
+    
+}

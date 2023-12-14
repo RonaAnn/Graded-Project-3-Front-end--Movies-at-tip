@@ -1,0 +1,14 @@
+.slide {
+    width: 100vw;
+    height: 90vh;
+    margin: auto;
+}
+
+.caption{
+    color:whitesmoke;
+    border-radius:1rem;
+    background-color: rgba(12, 12, 12,0.5);
+    font-weight: bold;
+    width: fit-content;
+    font-family: 'Times New Roman', Times, serif;
+}

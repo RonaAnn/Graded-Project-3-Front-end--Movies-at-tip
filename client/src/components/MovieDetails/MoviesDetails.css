@@ -1,0 +1,22 @@
+.movies-details {
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: contain;
+    background-color: #212529;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.other-ratings-collapse {
+    box-shadow: #5e6369 0px 0px 4px 1px;
+    padding: 15px;
+    background: #383d42eb;
+    margin-bottom: 10px;
+}
+
+.card{
+    background-color:  black!important;
+    color: #9d6eb2!important;
+}

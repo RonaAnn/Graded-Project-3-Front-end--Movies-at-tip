@@ -1,0 +1,24 @@
+.poster{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    opacity: 0.8;
+    padding: 0.2rem 0.4rem;
+}
+
+.size{
+    height: 100% !important;
+    object-fit: fill !important;
+}
+.spacing{
+    padding: 0 !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.favourite{
+    display: flex;
+    justify-content: space-between;
+    background-blend-mode: darken;
+    padding: 0.4rem 0.5rem;
+}
